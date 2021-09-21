@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/algo_v/static/css/main.dc878493.chunk.css",
+    "main.css": "/algo_v/static/css/main.4da65c1b.chunk.css",
     "main.js": "/algo_v/static/js/main.f541c1da.chunk.js",
     "main.js.map": "/algo_v/static/js/main.f541c1da.chunk.js.map",
     "runtime-main.js": "/algo_v/static/js/runtime-main.c3e71a26.js",
@@ -8,7 +8,7 @@
     "static/js/2.d9b127cc.chunk.js": "/algo_v/static/js/2.d9b127cc.chunk.js",
     "static/js/2.d9b127cc.chunk.js.map": "/algo_v/static/js/2.d9b127cc.chunk.js.map",
     "index.html": "/algo_v/index.html",
-    "static/css/main.dc878493.chunk.css.map": "/algo_v/static/css/main.dc878493.chunk.css.map",
+    "static/css/main.4da65c1b.chunk.css.map": "/algo_v/static/css/main.4da65c1b.chunk.css.map",
     "static/js/2.d9b127cc.chunk.js.LICENSE.txt": "/algo_v/static/js/2.d9b127cc.chunk.js.LICENSE.txt",
     "static/media/first.fde34b19.svg": "/algo_v/static/media/first.fde34b19.svg",
     "static/media/last.669ffbe1.svg": "/algo_v/static/media/last.669ffbe1.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c3e71a26.js",
     "static/js/2.d9b127cc.chunk.js",
-    "static/css/main.dc878493.chunk.css",
+    "static/css/main.4da65c1b.chunk.css",
     "static/js/main.f541c1da.chunk.js"
   ]
 }
